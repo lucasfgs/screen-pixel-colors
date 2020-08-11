@@ -1,0 +1,10 @@
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\bin\Debug\ScreenPixel.exe.config
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\bin\Debug\ScreenPixel.exe
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\bin\Debug\ScreenPixel.pdb
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.csprojAssemblyReference.cache
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.Properties.Resources.resources
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.csproj.GenerateResource.cache
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.csproj.CoreCompileInputs.cache
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.exe
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.pdb
+C:\Users\BloooD\source\repos\ScreenPixel\ScreenPixel\obj\Debug\ScreenPixel.Form1.resources
